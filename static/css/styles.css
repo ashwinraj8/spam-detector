@@ -1,0 +1,58 @@
+body{
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	padding: 0px;
+	background-color:#aeccdd;
+}
+
+.container{
+	width:100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header{
+	background:rgb(119, 149, 163)#35434a;
+	border-bottom:#448AFF 3px solid;
+	height:120px;
+	width:100%;
+	padding-top:30px;
+
+}
+
+.main-header{
+			text-align:center;
+			
+			height:100px;
+			width:100%;
+			margin:0px;
+		}
+#brandname{
+	float:left;
+	font-size:60px;
+	color: rgb(29, 27, 27);
+	margin: 2px;
+}
+
+header h2{
+	text-align:right;
+	color:rgb(20, 121, 168);
+
+}
+
+
+
+.btn-info {background-color: rgb(76, 95, 156);
+	border-radius: 5px;
+	font-size: 20px;
+	height:40px;
+	width:100px;} /* Blue */
+.btn-info:hover {background: #5676df;}
+
+
+.results{
+	border-radius: 15px 50px;
+    font-size: 20px;
+    padding: 5spx; 
+    width: 200px;
+    height: 150px;
+}
